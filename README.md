@@ -1,1 +1,8 @@
-# BoxPlot-Function
+# Creating a "Seaborn BoxPlot Function"
+## Overview
+Seaborn's boxplot function allows me to create box plots with a variety of customization options. I created box plots for multiple variables, group them by a categorical variable, add color to the plot. It also can customize the appearance of the boxes and whiskers.
+
+## Data
+The data is from Kaggle "GooglePlayStore.csv", which is a dataset that contains information about mobile apps available on the Google Play Store. The dataset typically includes information such as app name, category, rating, number of reviews, size, installs, type (free or paid), price, content rating, genre, last updated date, and current version of the app.
+
+## Visualization
