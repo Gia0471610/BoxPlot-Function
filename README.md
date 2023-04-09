@@ -7,3 +7,13 @@ The data is from Kaggle "GooglePlayStore.csv", which is a dataset that contains 
 
 ## Visualization
 ![Image alt text](https://github.com/Gia0471610/BoxPlot-Function/blob/main/image/BoxPlot_Apps.JPG)
+
+## Technologies Used
+- :bar_chart: Matplotlib
+- :chart_with_upwards_trend: Seaborn
+- :panda_face: Pandas: Pandas
+
+## Walk-though
+
+## Installation and Usage
+The function requires that the matplotlib, seaborn, and Pandas modules be installed. Both of these libraries are imported into the module.
