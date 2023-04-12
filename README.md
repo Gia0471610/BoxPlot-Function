@@ -14,7 +14,7 @@ The data is from Kaggle "GooglePlayStore.csv", which is a dataset that contains 
 - :panda_face: Pandas: Pandas
 
 ## Walk-though
-https://youtu.be/8dbXBRItXEU
+https://youtu.be/GmIZHHqGINs
 
 ## Installation and Usage
 The function requires that the matplotlib, seaborn, and Pandas modules be installed. Both of these libraries are imported into the module.
