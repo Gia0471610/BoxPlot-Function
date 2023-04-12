@@ -14,6 +14,7 @@ The data is from Kaggle "GooglePlayStore.csv", which is a dataset that contains 
 - :panda_face: Pandas: Pandas
 
 ## Walk-though
+#### Click on the image below to watch the video:
 [![Video Thumbnail](https://user-images.githubusercontent.com/122539792/231333546-7e962916-247b-4b51-b7b2-c5429c79e4cf.png)](https://youtu.be/GmIZHHqGINs)
 
 ## Installation and Usage
